@@ -1,0 +1,13 @@
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\bin\Debug\netcoreapp3.1\CsharpCodeSample.exe
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\bin\Debug\netcoreapp3.1\CsharpCodeSample.deps.json
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\bin\Debug\netcoreapp3.1\CsharpCodeSample.runtimeconfig.json
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\bin\Debug\netcoreapp3.1\CsharpCodeSample.runtimeconfig.dev.json
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\bin\Debug\netcoreapp3.1\CsharpCodeSample.dll
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\bin\Debug\netcoreapp3.1\CsharpCodeSample.pdb
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\obj\Debug\netcoreapp3.1\CsharpCodeSample.AssemblyInfoInputs.cache
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\obj\Debug\netcoreapp3.1\CsharpCodeSample.AssemblyInfo.cs
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\obj\Debug\netcoreapp3.1\CsharpCodeSample.csproj.CoreCompileInputs.cache
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\obj\Debug\netcoreapp3.1\CsharpCodeSample.dll
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\obj\Debug\netcoreapp3.1\CsharpCodeSample.pdb
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\obj\Debug\netcoreapp3.1\CsharpCodeSample.genruntimeconfig.cache
+D:\Kishor Workspace\CsharpCodeSample\CsharpCodeSample\obj\Debug\netcoreapp3.1\CsharpCodeSample.csprojAssemblyReference.cache

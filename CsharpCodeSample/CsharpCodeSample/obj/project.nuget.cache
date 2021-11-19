@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "VF0EPzd2+ya7YeABu0YdP+B5HmtR7mH9T7FtYomb9td8nCBymuEhgLtrpOSimE+zHlXnbpbUj2S5aZ/N2NFb6w==",
+  "success": true,
+  "projectFilePath": "D:\\Kishor Workspace\\CsharpCodeSample\\CsharpCodeSample\\CsharpCodeSample.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kishor.Kaushalye\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.12\\microsoft.netcore.app.host.win-x64.3.1.12.nupkg.sha512"
+  ],
+  "logs": []
+}
