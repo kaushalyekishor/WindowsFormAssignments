@@ -1,0 +1,14 @@
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\bin\Debug\TestAddin.dll
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\bin\Debug\TestAddin.pdb
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\bin\Debug\TestAddin.dll.manifest
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\bin\Debug\TestAddin.vsto
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\bin\Debug\Microsoft.Office.Tools.Common.v4.0.Utilities.dll
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.csprojAssemblyReference.cache
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.contetnCon.resources
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.Form1.resources
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.Properties.Resources.resources
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.csproj.GenerateResource.cache
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.csproj.CoreCompileInputs.cache
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.csproj.CopyComplete
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.dll
+D:\Kishor Workspace\My Workspace\TestAddin\TestAddin\obj\Debug\TestAddin.pdb
